@@ -35,6 +35,37 @@ The analysis focuses on answering the following questions:
 
 ---
 
+## Implications
+
+The insights derived from the SQL analysis can support several business decisions across marketing, product strategy, and operational planning
+
+---
+
+## Business Recommendations
+
+Based on the analysis, several practical actions could help improve business performance.
+
+- ## Customer Strategy
+
+Revenue is concentrated among a relatively small group of high-value customers.
+Businesses could prioritize retention strategies such as loyalty programs, targeted promotions, or personalized offers for these customers.
+
+- ## Product Strategy
+
+A small number of products generate a large share of total revenue.
+Companies can use this information to optimize inventory planning, highlight high-performing products in marketing campaigns, and evaluate opportunities to expand similar product categories.
+
+- ## Market Strategy
+
+The United Kingdom represents the dominant revenue market.
+Further analysis could explore opportunities to expand growth in other geographic regions through localized marketing or distribution strategies.
+
+- ## Seasonal Planning
+
+Revenue increases toward the end of the year, indicating strong seasonal demand.
+Businesses can prepare for this period by optimizing inventory levels, logistics planning, and marketing campaigns ahead of peak demand periods.
+
+
 ## Visualization
 
 Monthly Revenue Trend
