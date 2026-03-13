@@ -103,15 +103,19 @@ customer-revenue-sql-analytics
 │
 
 ├── data
+
 │ └── online_retail_II.csv
 
 ├── notebooks
+
 │ └── analysis.ipynb
 
 ├── images
+
 │ └── monthly_revenue_trend.png
 
 ├── PROJECT_EXPLANATION.md
+
 └── README.md
 
 ---
