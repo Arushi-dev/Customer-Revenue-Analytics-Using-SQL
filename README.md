@@ -101,6 +101,7 @@ Monthly Revenue Trend
 ## Repository Structure
 customer-revenue-sql-analytics
 │
+
 ├── data
 │ └── online_retail_II.csv
 
