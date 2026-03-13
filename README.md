@@ -55,7 +55,7 @@ Monthly Revenue Trend
 
 - Time-series revenue trend analysis
 
-= Data cleaning for transaction datasets
+- Data cleaning for transaction datasets
 
 ## Technologies Used
 
