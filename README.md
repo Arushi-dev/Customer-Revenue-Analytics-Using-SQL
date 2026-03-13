@@ -7,6 +7,11 @@ This project analyzes transactional retail data using SQL queries executed throu
 The goal of the analysis is to demonstrate how SQL can be used to transform raw transactional data into meaningful business insights.
 
 ---
+## Business Context
+
+Retail businesses generate large volumes of transactional data through customer purchases. Analyzing this data helps organizations understand revenue drivers, identify high-value customers, and monitor sales trends across products and markets.
+
+This project demonstrates how SQL-based analysis can be used to extract business insights from transactional retail data.
 
 ## Key Questions
 
@@ -37,6 +42,20 @@ Monthly Revenue Trend
 ![Monthly Revenue Trend](images/monthly_revenue_trend.png)
 
 ---
+
+## Analytical Skills Demonstrated
+
+- SQL aggregations for business KPIs
+
+- Window functions for customer ranking
+
+- Revenue segmentation and customer value analysis
+
+- Geographic revenue analysis
+
+- Time-series revenue trend analysis
+
+= Data cleaning for transaction datasets
 
 ## Technologies Used
 
